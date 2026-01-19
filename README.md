@@ -16,3 +16,9 @@ YONDL is open to:
 - Supporting partnerships
 
 This project is community-driven and open to contributions.
+
+## Supported open-source projects
+
+- Ghost (https://ghost.org) — open-source publishing platform
+
+
